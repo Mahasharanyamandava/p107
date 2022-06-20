@@ -1,0 +1,34 @@
+body
+{
+    background-color: crimson;
+}
+.header_div {
+    background-color: khaki;
+    color: hotpink;
+    font-family: 'lobster', cursive;
+}
+.header_div p {
+    font-family: fantasy;
+    color: palevioletred;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-family: 'Roboto',sans-serif;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #dff20a;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f20a67;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 10px 10px 10px yellow;
+}
